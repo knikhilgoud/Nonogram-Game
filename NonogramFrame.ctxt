@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NonogramFrame
+comment1.params=gui\ height\ width\ moves
+comment1.target=NonogramFrame(NonogramUI,\ int,\ int,\ java.util.ArrayList)
+comment1.text=\r\n\ Creates\ a\ panel\ for\ the\ Nonogram\ Puzzle\ Game\ GUI.\r\n\r\n\ @param\ gui\ \ \ \ the\ Nonogram\ GUI\r\n\ @param\ Widths\ \ the\ widths\ of\ a\ Grid\r\n\ @param\ Heights\ the\ hieght\ of\ a\ Grid\r\n\ @param\ Move\ \ theset\ of\ or\ list\ of\ the\ moves\ made\ in\ a\ puzzle\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=ui\ width\ height
+comment8.target=void\ clear(NonogramUI,\ int,\ int)
+numComments=9

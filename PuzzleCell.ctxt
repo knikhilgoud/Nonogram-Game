@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PuzzleCell
+comment1.params=ui\ x\ y\ state\ moves\ txtarea
+comment1.target=PuzzleCell(NonogramUI,\ int,\ int,\ int,\ java.util.ArrayList,\ javax.swing.JTextArea)
+comment1.text=\r\n\ Creates\ a\ new\ instance\ of\ a\ puzzle\ cell\ with\ a\ specified\ position\ and\ its\ respective\ state.\r\n\r\n\ @param\ ui\ the\ user\ interface\ context\ to\ which\ a\ cell\ will\ belong\r\n\ @param\ 'X'\ is\ \ coordinate\ of\ X\ in\ a\ puzzle\ cell\ within\ the\ Nonogram\ puzzle\r\n\ @param\ 'Y,\ is\ \ coordinate\ of\ Y\ \ in\ a\ puzzle\ cell\ within\ the\ Nonogram\ puzzle\r\n\ @param\ state\ is\ an\ initial\ state\ of\ the\ puzzle\ cell\r\n
+comment2.params=e
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=ui\ moves\ txtarea
+comment3.target=void\ handleCellClick(NonogramUI,\ java.util.ArrayList,\ javax.swing.JTextArea)
+comment4.params=
+comment4.target=void\ toggleCellState()
+comment4.text=\r\n\ \r\nSets\ the\ state\ of\ the\ cell\r\n\r\n
+comment5.params=
+comment5.target=java.awt.Color\ determineColoursOfCellStates()
+comment5.text=\r\nRetrieves\ the\ Color\ that\ has\ to\ be\ applied\ for\ the\ Current\ State\ of\ the\ button\r\n\r\n@return\ the\ color\ corresponding\ towards\ the\ Current\ State\ of\ a\ button\r\n
+comment6.params=state
+comment6.target=void\ setState(int)
+comment6.text=\r\n\ Updates\ or\ refreshes\ the\ States\ of\ the\ button\r\n\ @param\ states\ the\ revised\ and\ the\ updated\ state\ of\ the\ buttons\r\n
+numComments=7
